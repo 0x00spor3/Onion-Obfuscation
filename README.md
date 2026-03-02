@@ -16,3 +16,6 @@ A 4-byte little-endian length header is prepended to the payload before encoding
 
 ## Disclaimer
 This project is intended for educational and research purposes only. The technique described does not provide encryption — it is purely an encoding scheme. Do not use this code for malicious purposes.
+
+https://github.com/user-attachments/assets/6f6d03e2-6bfc-4e1a-a561-105d5b50e493
+
